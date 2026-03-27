@@ -40,3 +40,4 @@ d:\15. Source\quanlythongtinxe\Gateway\bin\Debug\net9.0\Microsoft.IdentityModel.
 d:\15. Source\quanlythongtinxe\Gateway\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 d:\15. Source\quanlythongtinxe\Gateway\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 d:\15. Source\quanlythongtinxe\Gateway\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+d:\15. Source\quanlythongtinxe\Gateway\obj\Debug\net9.0\Gateway.sourcelink.json

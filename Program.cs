@@ -44,7 +44,7 @@ builder.Services.AddOutputCache(options =>
     options.AddPolicy("DefaultCache", builder =>
     {
         builder.Expire(TimeSpan.FromSeconds(60))
-               .VaryByHeader("Authorization") // Critical for security: cache per user
+               .SetVaryByHeader("Authorization") // Correct method name
                .SetVaryByQuery("*"); // Vary by all query parameters
     });
 });
